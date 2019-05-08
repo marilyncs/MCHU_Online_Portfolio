@@ -20,7 +20,9 @@ a:hover {
   background-color: yellow;
 }
 
-
+@-ms-viewport{
+  width: device-width;
+}
 
 
 /* Font Sizing : ----------------------------------------------*/
