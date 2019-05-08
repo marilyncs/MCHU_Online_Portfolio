@@ -1,4 +1,6 @@
 /* General Layout : ----------------------------------------------*/
+:root { font-size: 62.5% } 
+
 html, body {
   height: 100%;
   margin: 5rem;
