@@ -115,10 +115,15 @@ p {
 }
 #logo .logo-link {
   display: block;
+  background: url('img/MChu_Logo_transparent.png') no-repeat;
+  background-size: 85px;
+  width: 85px;
+  height: 85px;
+  text-indent: 110%;
+  white-space: nowrap;
+  overflow: hidden;
 }
-#logo .logo-link img {
 
-}
 
 /* Content : ----------------------------------------------*/
 #content {
@@ -207,7 +212,7 @@ p {
     margin: 1rem auto;
   }
   #logo .logo-link {
-    text-align: center;
+    margin: 0 auto;
   }
   #content #cover {
     position: initial;
