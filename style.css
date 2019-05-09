@@ -122,6 +122,11 @@ p {
   text-indent: 110%;
   white-space: nowrap;
   overflow: hidden;
+  background-position-y: 5px;
+}
+
+#logo .logo-link:hover {
+  background-color: #ffff00;
 }
 
 
