@@ -79,6 +79,8 @@ p {
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.8;
+  margin: 15px 0;
+  margin: 1.5rem 0;
 }
 
 /* Button Styling : ----------------------------------------------*/
@@ -160,6 +162,12 @@ p {
 #content #introduction {
   margin-left: 40%;
   margin-right: 5%;
+}
+
+#content #introduction .top-introduction {
+  margin-bottom: 30px;
+  margin-bottom: 3rem;
+  line-height: 1.8;
 }
 
 /* Responsive : ----------------------------------------------*/
