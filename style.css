@@ -181,12 +181,19 @@ p {
 #content #introduction {
   margin-left: 40%;
   margin-right: 5%;
+  margin-bottom: 40%;
 }
-
-#content #introduction .top-introduction {
+#content #introduction #top-introduction {
   margin-bottom: 30px;
   margin-bottom: 3rem;
   line-height: 1.8;
+}
+#content #introduction p.strong {
+  font-weight: 700;
+}
+#content #introduction #project-info {
+  margin-top: 50px;
+  margin-top: 5rem;
 }
 
 /* Responsive : ----------------------------------------------*/
