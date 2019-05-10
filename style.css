@@ -124,11 +124,9 @@ p {
   overflow: hidden;
   background-position-y: 5px;
 }
-
 #logo .logo-link:hover {
   background-color: #ffff00;
 }
-
 
 /* Content : ----------------------------------------------*/
 #content {
@@ -161,7 +159,6 @@ p {
   font-size: 2rem;
   text-decoration: none;
 }
-
 #content #cover .icons {
   margin: 20px 0 10px;
   margin: 2rem 0 1rem;
